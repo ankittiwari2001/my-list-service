@@ -26,7 +26,7 @@ A backend service for the **My List** feature of an OTT platform, allowing users
 ### 🔗 Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/my-list-service.git
+git clone https://github.com/ankittiwari2001/my-list-service.git
 cd my-list-service
 ```
 
